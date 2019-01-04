@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.laynet.passwordapp"
+    versionCode = "1"
+    version     = "0.0.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Password App</name>
+
+  <description>
+      Password management application.
+  </description>
+
+  <author href="https://www.laynet.com" email="support@laynet.com">
+      Alain LAY
+  </author>
+
+</widget>
